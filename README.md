@@ -25,3 +25,11 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=virajpatil818&show_icons=true&locale=en" alt="virajpatil818" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=virajpatil818&" alt="virajpatil818" /></p>
+
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=Virajpatil818&bg_color=FFFFFF&color=000000&line=000000&point=00FF00" alt="Virajpatil818" />
+</p>
+
+<p align="left">
+  <img src="https://github-profile-trophy.vercel.app/?username=Virajpatil818&theme=onedark" alt="Virajpatil818" />
+</p>
